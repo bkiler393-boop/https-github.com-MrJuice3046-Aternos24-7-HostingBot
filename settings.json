@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FracturecraftSMP.aternos.me",
-    "port": 30167,
-    "version": "26.1.2",
+    "ip": "northsmp.mcsh.io",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
